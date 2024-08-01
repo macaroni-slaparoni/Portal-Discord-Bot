@@ -1,0 +1,7 @@
+planned features
+
+conversion of discord username to mc username
+channel dedicated to displaying server status (up/down indicators, online players, day/night indicator)
+remove the need for the bot to be run on the same hardware (though retain the need for it to be on the same lan or vlan)
+use discord roles for adding players to the whitelist
+nail down and remove the cause of the connection issues seen when running for long periods of time
